@@ -1,4 +1,5 @@
 # IBM HR Attrition Analysis
+<img width="893" height="505" alt="Overview" src="https://github.com/user-attachments/assets/a3bc962d-7560-42b4-958d-177fd587b1f3" />
 
 ## 📌 Project Overview
 This project analyzes employee attrition using the IBM HR Analytics dataset.
